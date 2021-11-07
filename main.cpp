@@ -5,8 +5,7 @@
 using namespace cv;
 using namespace std;
 
-/* TO DO
-  NOTES
+/*NOTES
 - Recommending setting terminal preferences to a black background, with font-size as small as possible, and terminal screen as large as possible
 - User-inputs are only registered if the "MyVideo" window showing the webcam feed is "active" (i.e. you must click on it for inputs to be registered)
 */
