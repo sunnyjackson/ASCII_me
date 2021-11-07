@@ -6,12 +6,6 @@ using namespace cv;
 using namespace std;
 
 /* TO DO
-- Upload to github & setup a pages.github.com post for this project
-    - Verify that we can pull it to my NUC, and then check performance, shooting for >30 Hz (if still slow, look to beat 30 Hz)
-
-  NEAT IDEAS
-- Port to an embedded device with a camera -> extend to Zoom-like function with two devices sharing video over wireless protocol
-
   NOTES
 - Recommending setting terminal preferences to a black background, with font-size as small as possible, and terminal screen as large as possible
 - User-inputs are only registered if the "MyVideo" window showing the webcam feed is "active" (i.e. you must click on it for inputs to be registered)
